@@ -1,0 +1,10 @@
+body {
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.columns {
+   column-count: 4;
+   column-width: 250px;
+   column-rule: 3px solid black;
+}
